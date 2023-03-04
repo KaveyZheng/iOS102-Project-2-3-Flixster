@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Flixster](https://user-images.githubusercontent.com/109322859/222928686-41ea8007-ae0d-4d92-b8e2-d506f61030a1.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
