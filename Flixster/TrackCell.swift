@@ -1,5 +1,5 @@
 //
-//  TrackCell.swift
+//  MovieCell.swift
 //  Flixster
 //
 //  Created by Kavey Zheng on 3/3/23.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class TrackCell: UITableViewCell {
+class MovieCell: UITableViewCell {
 
     override func awakeFromNib() {
         super.awakeFromNib()
