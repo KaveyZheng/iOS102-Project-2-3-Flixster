@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='(https://user-images.githubusercontent.com/109322859/222928686-41ea8007-ae0d-4d92-b8e2-d506f61030a1.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+(https://user-images.githubusercontent.com/109322859/222928735-4bf1ff36-5bc4-4ead-bf16-d787cbef94e2.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
