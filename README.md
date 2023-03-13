@@ -1,8 +1,27 @@
-# Project 2/3 - *Flixster*
+# Project 3 - *Flixster*
 
 Submitted by: **Kavey Zheng**
 
-Time spent: **10** hours spent in total
+## Required Features
+
+The following **required** functionality is completed:
+
+- [ ] Implement network call and table view to display a list of movies currently playing (title, description, image)
+- [ ] App has a collection view with the same list of movies
+- [ ] Uses a tab bar controller to switch between collection view and table view screens
+ 
+The following **optional** features are implemented:
+
+- [ ] Make an additional network call to another end-point.	
+- [ ] Allow users to scroll when context items are off-screen (table view implemention)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+# Project 2
 
 ## Required Features
 
