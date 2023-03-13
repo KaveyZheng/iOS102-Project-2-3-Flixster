@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# iOS102-Project-2-Flixster
-# iOS102-Project-3-Flixster
-# iOS102-Project-3-Flixster
-=======
-# Project 2 - *Flixster*
+# Project 2/3 - *Flixster*
 
 Submitted by: **Kavey Zheng**
 
@@ -48,4 +43,3 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
->>>>>>> 9e185659c0f0a4d2ae3eae1a687756b9fd0be92d
