@@ -14,9 +14,12 @@ The following **required** functionality is completed:
 
 ![Project3-Flixster](https://user-images.githubusercontent.com/109322859/224818013-91283bda-a22d-4b19-9811-9c949e442406.gif)
 
-&nbsp
-&nbsp
-&nbsp
+<pre>
+
+
+
+
+</pre>
 
 # Project 2
 
