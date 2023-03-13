@@ -18,7 +18,8 @@ class MovieCell: UITableViewCell {
         titleLabel.text = movie.title
         overviewLabel.text = movie.overview
         
-        Nuke.loadImage(with: movie.posterURL, into: movieImageView)
+        let url = URL(string: "https://image.tmdb.org/t/p/w500" + movie.poster_path.absoluteString)
+        Nuke.loadImage(with: url!, into: movieImageView)
     }
     
     override func awakeFromNib() {

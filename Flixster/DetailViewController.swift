@@ -24,12 +24,13 @@ class DetailViewController: UIViewController {
         super.viewDidLoad()
         
         // Do any additional setup after loading the view.
-        Nuke.loadImage(with: movie.posterURL, into: movieImageView)
+        let url = URL(string: "https://image.tmdb.org/t/p/w500" + movie.poster_path.absoluteString)
+        Nuke.loadImage(with: url!, into: movieImageView)
         
         titleLabel.text = movie.title
         voteAverageLabel.text = "\(movie.vote_average) Rating"
         voteCountLabel.text = "\(movie.vote_count) Votes"
-        dateLabel.text = "Released " + movie.date
+        dateLabel.text = "Released " + movie.release_date
         overviewLabel.text = movie.overview
         
         if movie.adult { adultLabel.text = "Viewer Discretion Advised" }
